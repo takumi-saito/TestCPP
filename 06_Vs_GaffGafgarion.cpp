@@ -34,7 +34,6 @@ public:
 
 };
 
-
 // スキルクラス
 class Skill {
   Character me;
